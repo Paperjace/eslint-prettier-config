@@ -12,7 +12,7 @@ I'm using the AirBNB style guide in these config files.
 -   Run `npm install`. This will install all the packages necessary for the VS Code extensions to work.
 -   Install `ESLint` and `Prettier` extensions from the VS Code extension store.
 
-> Note to self: If you want to start over with fresh config files, delete them. Then run `npx eslint --init` to through the setup wizard.
+> Note to self: If you want to start over with fresh config files, you can run `npx eslint --init` to go through the setup wizard.
 
 You can customize ESLint rules in the `.eslintrc.json` file. Customize Prettier rules in `.prettierrc.json`.
 
